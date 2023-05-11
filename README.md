@@ -20,3 +20,17 @@
 ### 6 Retention strategies:
 ##### To retain customers, companies can implement various strategies, such as offering personalized recommendations, providing excellent customer service, simplifying the customer experience, and creating a sense of community around the brand.
 
+
+# Steps:
+*  ##### Import necessary libraries.
+*  ##### Load data.
+*  ##### Data Manipulation.
+*  ##### Data Visualization.
+*  ##### Model Building.
+# Conclusion:
+#####  customer churn is a critical issue for businesses, as losing customers can have a significant impact on revenue and profitability. Building a customer churn model using machine learning can help businesses identify which customers are at risk of churning, and take appropriate actions to retain them.
+##### The process of building a customer churn model involves collecting and preprocessing data, selecting an appropriate machine learning algorithm, training and evaluating the model, and deploying it into production. By continuously monitoring the model's performance and making adjustments as needed, businesses can improve customer retention and maintain their competitive edge. Ultimately, by reducing customer churn, businesses can increase customer satisfaction and loyalty, leading to greater revenue and success.
+
+
+
+
