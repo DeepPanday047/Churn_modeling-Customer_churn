@@ -14,9 +14,9 @@
 ### 4 Churn prediction: 
 ##### Businesses can use data analytics and machine learning algorithms to predict which customers are most likely to churn. By identifying these customers early on, companies can take proactive measures to retain them, such as offering discounts or incentives, improving customer service, or addressing the root causes of churn.
 
-#### 5 Churn prevention: 
+### 5 Churn prevention: 
 ##### To prevent customer churn, companies need to understand the reasons why customers leave and take steps to address those issues. This can involve improving product or service quality, offering personalized experiences, engaging with customers through social media, and creating loyalty programs.
 
-#### 6 Retention strategies:
+### 6 Retention strategies:
 ##### To retain customers, companies can implement various strategies, such as offering personalized recommendations, providing excellent customer service, simplifying the customer experience, and creating a sense of community around the brand.
 
